@@ -1,0 +1,14 @@
+C:\Users\JodaBook\Documents\C#\09-Datastructures-Kompetenzcheck\09-Datastructures-Kompetenzcheck\bin\Debug\net8.0\09-Datastructures-Kompetenzcheck.exe
+C:\Users\JodaBook\Documents\C#\09-Datastructures-Kompetenzcheck\09-Datastructures-Kompetenzcheck\bin\Debug\net8.0\09-Datastructures-Kompetenzcheck.deps.json
+C:\Users\JodaBook\Documents\C#\09-Datastructures-Kompetenzcheck\09-Datastructures-Kompetenzcheck\bin\Debug\net8.0\09-Datastructures-Kompetenzcheck.runtimeconfig.json
+C:\Users\JodaBook\Documents\C#\09-Datastructures-Kompetenzcheck\09-Datastructures-Kompetenzcheck\bin\Debug\net8.0\09-Datastructures-Kompetenzcheck.dll
+C:\Users\JodaBook\Documents\C#\09-Datastructures-Kompetenzcheck\09-Datastructures-Kompetenzcheck\bin\Debug\net8.0\09-Datastructures-Kompetenzcheck.pdb
+C:\Users\JodaBook\Documents\C#\09-Datastructures-Kompetenzcheck\09-Datastructures-Kompetenzcheck\obj\Debug\net8.0\09-Datastructures-Kompetenzcheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JodaBook\Documents\C#\09-Datastructures-Kompetenzcheck\09-Datastructures-Kompetenzcheck\obj\Debug\net8.0\09-Datastructures-Kompetenzcheck.AssemblyInfoInputs.cache
+C:\Users\JodaBook\Documents\C#\09-Datastructures-Kompetenzcheck\09-Datastructures-Kompetenzcheck\obj\Debug\net8.0\09-Datastructures-Kompetenzcheck.AssemblyInfo.cs
+C:\Users\JodaBook\Documents\C#\09-Datastructures-Kompetenzcheck\09-Datastructures-Kompetenzcheck\obj\Debug\net8.0\09-Datastructures-Kompetenzcheck.csproj.CoreCompileInputs.cache
+C:\Users\JodaBook\Documents\C#\09-Datastructures-Kompetenzcheck\09-Datastructures-Kompetenzcheck\obj\Debug\net8.0\09-Datastructures-Kompetenzcheck.dll
+C:\Users\JodaBook\Documents\C#\09-Datastructures-Kompetenzcheck\09-Datastructures-Kompetenzcheck\obj\Debug\net8.0\refint\09-Datastructures-Kompetenzcheck.dll
+C:\Users\JodaBook\Documents\C#\09-Datastructures-Kompetenzcheck\09-Datastructures-Kompetenzcheck\obj\Debug\net8.0\09-Datastructures-Kompetenzcheck.pdb
+C:\Users\JodaBook\Documents\C#\09-Datastructures-Kompetenzcheck\09-Datastructures-Kompetenzcheck\obj\Debug\net8.0\09-Datastructures-Kompetenzcheck.genruntimeconfig.cache
+C:\Users\JodaBook\Documents\C#\09-Datastructures-Kompetenzcheck\09-Datastructures-Kompetenzcheck\obj\Debug\net8.0\ref\09-Datastructures-Kompetenzcheck.dll
